@@ -45,4 +45,9 @@ A line graph showing the temperature forecast for the selected city will pop up.
 
 ---
 
+### Output Sample
+The script generates a line chart of the temperature forecast over the next few days using data from OpenWeatherMap.
+
+---
+
 ### Submitted by Vikas V
